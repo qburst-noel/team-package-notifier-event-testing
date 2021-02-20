@@ -1,0 +1,19 @@
+{
+  "name": "team-package-notifier-event-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/qburst-noel/team-package-notifier-event-testing.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/qburst-noel/team-package-notifier-event-testing/issues"
+  },
+  "homepage": "https://github.com/qburst-noel/team-package-notifier-event-testing#readme"
+}
