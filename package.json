@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/qburst-noel/team-package-notifier-event-testing#readme",
   "dependencies": {
-    "bower": "^1.8.12"
+    "bower": "^1.8.12",
+    "react": "^17.0.1"
   }
 }
