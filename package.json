@@ -24,6 +24,7 @@
     "json-2-csv": "^3.10.2",
     "nip": "^1.1.0",
     "react": "^17.0.1",
-    "react-router-dom": "^5.2.0"
+    "react-router-dom": "^5.2.0",
+    "synaptic": "^1.1.4"
   }
 }
