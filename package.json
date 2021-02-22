@@ -17,10 +17,7 @@
   },
   "homepage": "https://github.com/qburst-noel/team-package-notifier-event-testing#readme",
   "dependencies": {
-    "compromise": "^13.9.3",
-    "debug": "^4.3.1",
     "json": "^10.0.0",
-    "json-2-csv": "^3.10.2",
     "ldapjs": "^2.2.3",
     "ldapjs-client": "^0.1.1",
     "nip": "^1.1.0",
