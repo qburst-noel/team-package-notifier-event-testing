@@ -23,6 +23,7 @@
     "gulp": "^4.0.2",
     "json-2-csv": "^3.10.2",
     "ldapjs": "^2.2.3",
+    "ldapjs-client": "^0.1.1",
     "nip": "^1.1.0",
     "react": "^17.0.1",
     "react-router-dom": "^5.2.0",
