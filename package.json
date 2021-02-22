@@ -30,6 +30,7 @@
     "nlp": "0.0.0",
     "react": "^17.0.1",
     "react-router-dom": "^5.2.0",
-    "synaptic": "^1.1.4"
+    "synaptic": "^1.1.4",
+    "xlsx": "^0.16.9"
   }
 }
