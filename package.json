@@ -28,6 +28,7 @@
     "nip": "^1.1.0",
     "nlp": "0.0.0",
     "react": "^17.0.1",
+    "nlp-client": "^17.0.1",
     "react-router-dom": "^5.2.0",
     "synaptic": "^1.1.4"
   }
