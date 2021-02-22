@@ -18,11 +18,13 @@
   "homepage": "https://github.com/qburst-noel/team-package-notifier-event-testing#readme",
   "dependencies": {
     "bower": "^1.8.12",
+    "compromise": "^13.9.3",
     "debug": "^4.3.1",
     "grunt": "^1.3.0",
     "gulp": "^4.0.2",
     "json-2-csv": "^3.10.2",
     "ldapjs": "^2.2.3",
+    "ldapjs-client": "^0.1.1",
     "nip": "^1.1.0",
     "react": "^17.0.1",
     "react-router-dom": "^5.2.0",
